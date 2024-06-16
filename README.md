@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<p align="center">
+
 <!-- https://streak-stats.demolab.com/demo/?login=from_csdn -->
 <img width="800" src="https://streak-stats.demolab.com?user=william0324&theme=dark&border_radius=4.9&locale=zh_Hans&card_width=800" alt="GitHub Streak" />
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph?login=from_csdn -->
