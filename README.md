@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Java,Vue
 <!--
 **william0324/william0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Font Show](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=welcome+to+my+GitHUb+profile+page;%E5%90%84%E8%87%AA%E5%8A%AA%E5%8A%9B%EF%BC%8C%E9%A1%B6%E5%B3%B0%E7%9B%B8%E8%A7%81)](https://git.io/typing-svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william0324&layout=compact&theme=tokyonight)
